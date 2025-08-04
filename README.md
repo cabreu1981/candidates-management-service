@@ -5,6 +5,7 @@ cd tu-repo
 
 Asegúrate de tener instalado Docker y Docker Compose en tu sistema.
 
+la coleccion de postman esta en la raiz del proyecto junto con las variables de ambiente
 
 2. Ejecutar el proyecto
 Construye e inicia todos los contenedores necesarios con el siguiente comando:
