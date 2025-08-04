@@ -9,6 +9,7 @@ la coleccion de postman esta en la raiz del proyecto junto con las variables de 
 
 2. Ejecutar el proyecto
 Construye e inicia todos los contenedores necesarios con el siguiente comando:
+te vas a la carpeta donde clonaste el proyecto, abres dicha carpeta en poweshell y escribe
 
 docker-compose up --build
 
